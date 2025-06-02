@@ -1,0 +1,1143 @@
+[
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "LoginCheck",
+    "RelativePath": "api/Common/CheckLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "Pharmacy.Data.Class.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GenerateCRBillRefNo",
+    "RelativePath": "api/Common/GenerateCRBillRefNo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "compID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "finYearID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "compCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "finYearCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sctID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAllUserBranches",
+    "RelativePath": "api/Common/GetAllUserBranches",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppBank",
+    "RelativePath": "api/Common/GetAppBank",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppBillNoFlexFill",
+    "RelativePath": "api/Common/GetAppBillNoFlexFill",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sctId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BillNO",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "finYearID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppCustBranch",
+    "RelativePath": "api/Common/GetAppCustBranch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mainCustId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppCustFlexFill",
+    "RelativePath": "api/Common/GetAppCustFlexFill",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sctId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "filterCust",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppCustomer",
+    "RelativePath": "api/Common/GetAppCustomer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppEmpWiseSct",
+    "RelativePath": "api/Common/GetAppEmpWiseSct",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppFinYear",
+    "RelativePath": "api/Common/GetAppFinYear",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppMenuAsync",
+    "RelativePath": "api/Common/GetAppMenuAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetAppWallet",
+    "RelativePath": "api/Common/GetAppWallet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetCompanyFinYearDetails",
+    "RelativePath": "api/Common/GetCompanyFinYearDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetCRBCPrefix",
+    "RelativePath": "api/Common/GetCRBCPrefix",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetCreditbill",
+    "RelativePath": "api/Common/GetCreditbill",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "custid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetCreditbillSettings",
+    "RelativePath": "api/Common/GetCreditbillSettings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetCreditbillsettled",
+    "RelativePath": "api/Common/GetCreditbillsettled",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "custid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetManualInvoiceFlexFill",
+    "RelativePath": "api/Common/GetManualInvoiceFlexFill",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sctId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "manualInvNo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "finYearID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetSectionCounterDetails",
+    "RelativePath": "api/Common/GetSectionCounterDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sectionId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "GetUserDetails",
+    "RelativePath": "api/Common/GetUserDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.CommonController",
+    "Method": "SaveAppCrBillMaster",
+    "RelativePath": "api/Common/SaveAppCrBillMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cb",
+        "Type": "Pharmacy.Data.Class.CrBill",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetBillwiseSale",
+    "RelativePath": "api/Sales/GetBillwiseSale",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetCateWiseStock",
+    "RelativePath": "api/Sales/GetCateWiseStock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetCounterwiseCollection",
+    "RelativePath": "api/Sales/GetCounterwiseCollection",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetCustomer",
+    "RelativePath": "api/Sales/GetCustomer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetCustomerwiseDetails",
+    "RelativePath": "api/Sales/GetCustomerwiseDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "customerid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetCustomerwiseMonth",
+    "RelativePath": "api/Sales/GetCustomerwiseMonth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetCustomerwiseMonthPivot",
+    "RelativePath": "api/Sales/GetCustomerwiseMonthPivot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "MonthList",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetDepartment",
+    "RelativePath": "api/Sales/GetDepartment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetGroupwiseMonth",
+    "RelativePath": "api/Sales/GetGroupwiseMonth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetGroupwiseMonthPivot",
+    "RelativePath": "api/Sales/GetGroupwiseMonthPivot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "MonthList",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItem",
+    "RelativePath": "api/Sales/GetItem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItemCategorywiseSale",
+    "RelativePath": "api/Sales/GetItemCategorywiseSale",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItemGroupwise",
+    "RelativePath": "api/Sales/GetItemGroupwise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItemGroupwiseDetails",
+    "RelativePath": "api/Sales/GetItemGroupwiseDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "groupid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "monthList",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItemwiseDetails",
+    "RelativePath": "api/Sales/GetItemwiseDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "itemid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItemwiseMonth",
+    "RelativePath": "api/Sales/GetItemwiseMonth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItemwiseMonthPivot",
+    "RelativePath": "api/Sales/GetItemwiseMonthPivot",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "MonthList",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetItemwiseSale",
+    "RelativePath": "api/Sales/GetItemwiseSale",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetOneitemAllparties",
+    "RelativePath": "api/Sales/GetOneitemAllparties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "itemid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sctid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetOnepartyitemwise",
+    "RelativePath": "api/Sales/GetOnepartyitemwise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "custid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetOnepartyitemwiseDetails",
+    "RelativePath": "api/Sales/GetOnepartyitemwiseDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "custid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "itemid",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SctId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetOnlineProfitCategoryWise",
+    "RelativePath": "api/Sales/GetOnlineProfitCategoryWise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetProfitBreakup",
+    "RelativePath": "api/Sales/GetProfitBreakup",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetProitItemWise",
+    "RelativePath": "api/Sales/GetProitItemWise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetPurchaseItemCategorywise",
+    "RelativePath": "api/Sales/GetPurchaseItemCategorywise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetPurchaseItemwise",
+    "RelativePath": "api/Sales/GetPurchaseItemwise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetPurchaseSummary",
+    "RelativePath": "api/Sales/GetPurchaseSummary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetPurchasevendorwise",
+    "RelativePath": "api/Sales/GetPurchasevendorwise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetPurchasewise",
+    "RelativePath": "api/Sales/GetPurchasewise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetSalesDetails",
+    "RelativePath": "api/Sales/GetSalesDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetSalesItemDetails",
+    "RelativePath": "api/Sales/GetSalesItemDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "itemid",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetStockBreakup",
+    "RelativePath": "api/Sales/GetStockBreakup",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetStockItemWise",
+    "RelativePath": "api/Sales/GetStockItemWise",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetVendorWiseProfit",
+    "RelativePath": "api/Sales/GetVendorWiseProfit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.SalesController",
+    "Method": "GetVendorWiseStock",
+    "RelativePath": "api/Sales/GetVendorWiseStock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pharmacy.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Pharmacy.WeatherForecast, Pharmacy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
