@@ -2,7 +2,7 @@
 
 namespace Pharmacy.Data.DbModel
 {
-    public class PRMMASTER_LoginSettings
+    public class DHMMASTER_LoginSettings
     {
         [Key]
         public int LOGIN_ID { get; set; }

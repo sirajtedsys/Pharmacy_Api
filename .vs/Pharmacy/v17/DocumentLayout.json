@@ -1,89 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\Pharmacy\\Pharmacy\\",
+  "WorkspaceRootPath": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\repositry\\salesrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\repositry\\salesrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\repositry\\commonrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\repositry\\commonrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\class\\cbilldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\cbilldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\class\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\class\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\uchmaster_hrm_employee_hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\uchmaster_hrm_employee_hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\uchmaster_hrm_employee_branch_link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\uchmaster_hrm_employee_branch_link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\repositry\\salesrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\repositry\\salesrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\uchmaster_hrm_branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\uchmaster_hrm_branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\repositry\\commonrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\repositry\\commonrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\uchemr_emr_admin_users_branch_link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\uchemr_emr_admin_users_branch_link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\dbmodel\\dhmmaster_loginsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\dhmmaster_loginsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\uchemr_emr_admin_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\uchemr_emr_admin_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\dbmodel\\dhmmaster_hrm_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\dhmmaster_hrm_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\tbl_hrm_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\tbl_hrm_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\prmmaster_loginsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\prmmaster_loginsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\dbmodel\\prmmaster_hrm_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\dbmodel\\prmmaster_hrm_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\class\\defaultmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\class\\cbilldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\cbilldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\class\\defaultmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\defaultmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\class\\discountupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\class\\discountupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\discountupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\class\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\class\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\class\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\class\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\pharmacy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\pharmacy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\pharmacy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\projects\\pharmacy\\pharmacy\\pharmacy\\data\\class\\crbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|d:\\working_folder\\new folder\\pharmacy_api\\pharmacy\\data\\class\\crbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0665D286-8B5B-453B-B4F3-384959558D7C}|Pharmacy\\Pharmacy.csproj|solutionrelative:pharmacy\\data\\class\\crbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,56 +74,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:35:37.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DHMMASTER_Hrm_Employee.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\DbModel\\DHMMASTER_Hrm_Employee.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\DHMMASTER_Hrm_Employee.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\DbModel\\DHMMASTER_Hrm_Employee.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\DHMMASTER_Hrm_Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:36:20.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DHMMASTER_LoginSettings.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\DbModel\\DHMMASTER_LoginSettings.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\DHMMASTER_LoginSettings.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\DbModel\\DHMMASTER_LoginSettings.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\DHMMASTER_LoginSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:36:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\JwtService.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\JwtService.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\JwtService.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Class\\JwtService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAADwv4sAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:28:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\appsettings.json",
+              "RelativeDocumentMoniker": "Pharmacy\\appsettings.json",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\appsettings.json",
+              "RelativeToolTip": "Pharmacy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T06:35:51.923Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SalesRepositry.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Repositry\\SalesRepositry.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Repositry\\SalesRepositry.cs",
               "RelativeDocumentMoniker": "Pharmacy\\Repositry\\SalesRepositry.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Repositry\\SalesRepositry.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Repositry\\SalesRepositry.cs",
               "RelativeToolTip": "Pharmacy\\Repositry\\SalesRepositry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAANEBAAAAAAAAAADwvx0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T05:40:33.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesController.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Controllers\\SalesController.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Controllers\\SalesController.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Controllers\\SalesController.cs",
-              "RelativeToolTip": "Pharmacy\\Controllers\\SalesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:39:21.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CBillDetails.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\CBillDetails.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\CBillDetails.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\CBillDetails.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\Class\\CBillDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:39:05.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CommonRepositry.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Repositry\\CommonRepositry.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Repositry\\CommonRepositry.cs",
               "RelativeDocumentMoniker": "Pharmacy\\Repositry\\CommonRepositry.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Repositry\\CommonRepositry.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Repositry\\CommonRepositry.cs",
               "RelativeToolTip": "Pharmacy\\Repositry\\CommonRepositry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAowDsBAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T05:38:07.367Z",
               "EditorCaption": ""
@@ -151,227 +174,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UCHMASTER_Hrm_Employee_Hr.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Employee_Hr.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Employee_Hr.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Employee_Hr.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Employee_Hr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:48.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CommonController.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Controllers\\CommonController.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Controllers\\CommonController.cs",
               "RelativeDocumentMoniker": "Pharmacy\\Controllers\\CommonController.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Controllers\\CommonController.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Controllers\\CommonController.cs",
               "RelativeToolTip": "Pharmacy\\Controllers\\CommonController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:24:29.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:35:37.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UCHMASTER_Hrm_employee_branch_Link.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_employee_branch_Link.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_employee_branch_Link.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_employee_branch_Link.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_employee_branch_Link.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:44.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T05:24:29.071Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UCHMASTER_Hrm_Branch.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Branch.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Branch.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Branch.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\UCHMASTER_Hrm_Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Title": "CBillDetails.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\CBillDetails.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\CBillDetails.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\CBillDetails.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Class\\CBillDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:41.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T05:39:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Pharmacy\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:39:21.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UCHEMR_Emr_Admin_Users_Branch_Link.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_Users_Branch_Link.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_Users_Branch_Link.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_Users_Branch_Link.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_Users_Branch_Link.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Title": "DefaultMessage.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\DefaultMessage.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\DefaultMessage.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\DefaultMessage.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Class\\DefaultMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:36.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\JwtService.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\JwtService.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\JwtService.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\Class\\JwtService.cs",
-              "ViewState": "AgIAAIQAAAAA/v///78owCYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:28:01.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T05:35:31.58Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UCHEMR_Emr_Admin_users.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_users.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_users.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_users.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\UCHEMR_Emr_Admin_users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Title": "DiscountUpdateModel.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
+              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
+              "RelativeToolTip": "Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:33.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Tbl_Hrm_Department.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\Tbl_Hrm_Department.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\Tbl_Hrm_Department.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\Tbl_Hrm_Department.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\Tbl_Hrm_Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:29.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PRMMASTER_LoginSettings.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\PRMMASTER_LoginSettings.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\PRMMASTER_LoginSettings.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\PRMMASTER_LoginSettings.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\PRMMASTER_LoginSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:25.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T05:35:12.625Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "PRMMASTER_Hrm_Employee.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\PRMMASTER_Hrm_Employee.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\DbModel\\PRMMASTER_Hrm_Employee.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\DbModel\\PRMMASTER_Hrm_Employee.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\DbModel\\PRMMASTER_Hrm_Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:36:20.928Z",
-              "EditorCaption": ""
+              "Title": "Pharmacy.csproj",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Pharmacy.csproj",
+              "RelativeDocumentMoniker": "Pharmacy\\Pharmacy.csproj",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Pharmacy.csproj",
+              "RelativeToolTip": "Pharmacy\\Pharmacy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T05:28:08.461Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "DefaultMessage.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\DefaultMessage.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\DefaultMessage.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\DefaultMessage.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\Class\\DefaultMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:35:31.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DiscountUpdateModel.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
-              "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
-              "RelativeToolTip": "Pharmacy\\Data\\Class\\DiscountUpdateModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:35:12.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Pharmacy",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
-              "RelativeDocumentMoniker": "Pharmacy\\Pharmacy.csproj",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
-              "RelativeToolTip": "Pharmacy\\Pharmacy.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T05:28:08.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "CrBill.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\CrBill.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\CrBill.cs",
               "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\CrBill.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\CrBill.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\CrBill.cs",
               "RelativeToolTip": "Pharmacy\\Data\\Class\\CrBill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:27:12.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T05:27:12.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 13,
               "Title": "Sales.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\Sales.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\Sales.cs",
               "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\Sales.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\Sales.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\Sales.cs",
               "RelativeToolTip": "Pharmacy\\Data\\Class\\Sales.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:26:25.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T05:26:25.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\Login.cs",
+              "DocumentMoniker": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\Login.cs",
               "RelativeDocumentMoniker": "Pharmacy\\Data\\Class\\Login.cs",
-              "ToolTip": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Data\\Class\\Login.cs",
+              "ToolTip": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Data\\Class\\Login.cs",
               "RelativeToolTip": "Pharmacy\\Data\\Class\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T05:26:05.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T05:26:05.086Z"
             }
           ]
         }

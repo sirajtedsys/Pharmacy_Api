@@ -2,7 +2,7 @@
 
 namespace Pharmacy.Data.DbModel
 {
-    public class PRMMASTER_Hrm_Employee
+    public class DHMMASTER_Hrm_Employee
     {
         [Key]
         public int EMP_ID { get; set; }

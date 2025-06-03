@@ -142,7 +142,7 @@ public class JwtService
 
                 var dat = await _dbContext.APP_LOGIN_SETTINGS
                                            .Where(u => u.TOKEN == token).ToListAsync();
-                var validatetoken = new PRMMASTER_LoginSettings();
+                var validatetoken = new DHMMASTER_LoginSettings();
 
                 if(dat.Count>0)
                 {

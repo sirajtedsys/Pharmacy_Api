@@ -72,7 +72,7 @@ namespace Pharmacy.Repositry
 
                     //check exiting userdetail in loginsettings
                     var dat = await _DbContext.APP_LOGIN_SETTINGS.Where(x => x.EMP_ID == data[0].EMP_ID.ToString()).ToListAsync();
-                    var existingDATA = new PRMMASTER_LoginSettings();
+                    var existingDATA = new DHMMASTER_LoginSettings();
 
                     if (dat.Count > 0)
                     {
@@ -95,7 +95,7 @@ namespace Pharmacy.Repositry
                     //if no existing data exist then add new data to teh tablw
                     else
                     {
-                        var newlogin = new PRMMASTER_LoginSettings
+                        var newlogin = new DHMMASTER_LoginSettings
                         {
                             EMP_ID = userdat.AUSR_ID,
                             TOKEN = token,
@@ -696,8 +696,8 @@ namespace Pharmacy.Repositry
                                 HRM_SECTION_COUNTER.COUNTER_CODE, HRM_DEPARTMENT_SECTIONS.SCT_ID,
                                 HRM_SECTION_COUNTER.RRNT_TYPE, HRM_SECTION_COUNTER.SLRTN_PRNT_TYPE,
                                 HRM_DEPARTMENT_SECTIONS.SCT_NAME, HRM_DEPARTMENT_SECTIONS.SCT_CODE 
-                         FROM prmmaster.HRM_SECTION_COUNTER 
-                         INNER JOIN prmmaster.HRM_DEPARTMENT_SECTIONS 
+                         FROM DHMMASTER.HRM_SECTION_COUNTER 
+                         INNER JOIN DHMMASTER.HRM_DEPARTMENT_SECTIONS 
                          ON HRM_SECTION_COUNTER.SCT_ID = HRM_DEPARTMENT_SECTIONS.SCT_ID 
                          WHERE HRM_DEPARTMENT_SECTIONS.SCT_ID = :SectionId";
 
