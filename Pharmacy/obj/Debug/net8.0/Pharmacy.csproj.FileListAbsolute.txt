@@ -140,3 +140,4 @@ D:\Working_Folder\New folder\Pharmacy_Api\Pharmacy\obj\Debug\net8.0\refint\Pharm
 D:\Working_Folder\New folder\Pharmacy_Api\Pharmacy\obj\Debug\net8.0\Pharmacy.pdb
 D:\Working_Folder\New folder\Pharmacy_Api\Pharmacy\obj\Debug\net8.0\Pharmacy.genruntimeconfig.cache
 D:\Working_Folder\New folder\Pharmacy_Api\Pharmacy\obj\Debug\net8.0\ref\Pharmacy.dll
+D:\Projects\Pharmacy\Pharmacy\Pharmacy\obj\Debug\net8.0\Pharmacy.sourcelink.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1cY7Ch8SbvI=",
+  "dgSpecHash": "KsZWZocCTtY=",
   "success": true,
-  "projectFilePath": "D:\\Working_Folder\\New folder\\Pharmacy_Api\\Pharmacy\\Pharmacy.csproj",
+  "projectFilePath": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.16\\microsoft.aspnetcore.authentication.jwtbearer.8.0.16.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.16\\microsoft.aspnetcore.jsonpatch.8.0.16.nupkg.sha512",
@@ -55,8 +55,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'Oracle.ManagedDataAccess 23.8.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
       "libraryId": "Oracle.ManagedDataAccess",
       "targetGraphs": [
         "net8.0"

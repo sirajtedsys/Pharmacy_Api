@@ -12,6 +12,11 @@
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Login"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/Login"
@@ -440,6 +445,11 @@
         ],
         "requestBody": {
           "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CrBill"
+              }
+            },
             "application/json": {
               "schema": {
                 "$ref": "#/components/schemas/CrBill"
