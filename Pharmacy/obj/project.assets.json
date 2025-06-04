@@ -2307,11 +2307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\Pharmacy_Api\\Pharmacy\\Pharmacy.csproj",
       "projectName": "Pharmacy",
-      "projectPath": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\Pharmacy.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\Pharmacy_Api\\Pharmacy\\Pharmacy.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Pharmacy\\Pharmacy\\Pharmacy\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\Pharmacy_Api\\Pharmacy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

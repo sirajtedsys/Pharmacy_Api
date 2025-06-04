@@ -482,7 +482,7 @@ namespace Pharmacy.Repositry
 
 
 				using (OracleConnection conn = new OracleConnection(_con))
-				using (OracleCommand cmd = new OracleCommand("PRMTRANS.SP_ONLN_PUR_BREAKUP", conn))
+				using (OracleCommand cmd = new OracleCommand("DHMTRANS.SP_ONLN_PUR_BREAKUP", conn))
 				{
 					cmd.CommandType = CommandType.StoredProcedure;
 
